@@ -118,6 +118,14 @@ By transforming banking from reactive to proactive, PRISM aims to:
 ![Recent Activity](./docs/activity.png)
 *A seamless, unified view of all recent money movement across savings, credit, and wallets.*
 
+### 6. Wealth Portfolio
+![Wealth Portfolio](./docs/portfolio.png)
+*A comprehensive view of all investments across mutual funds, equities, ETFs, gold, and bonds — reconciled daily.*
+
+### 7. Support & Assistant
+![Support](./docs/support.png)
+*24x7 instant answers backed by the Digital Twin, providing calm and accurate assistance in 12 Indian languages.*
+
 ---
 
 ## 🎨 Design Philosophy
