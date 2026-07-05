@@ -377,3 +377,11 @@ export const healthHistory = [
   { m: "Sep", score: 728 },
   { m: "Oct", score: 735 },
   { m: "Nov", score: 742 },
+  { m: "Dec", score: 748 },
+  { m: "Jan '26", score: 756 },
+  { m: "Feb", score: 762 },
+  { m: "Mar", score: 764 },
+  { m: "Apr", score: 770 },
+  { m: "May", score: 778 },
+  { m: "Jun", score: 782 },
+];
